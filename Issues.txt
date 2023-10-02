@@ -1,0 +1,4 @@
+1- Author identification was unknown :
+	solution :
+	git config --global user.email "Abdullah.aboagm@gmail.com"
+	git config --global user.email "Abdullah-Aboagm"
